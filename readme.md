@@ -1,3 +1,6 @@
+Please use repository tfold-release for the TFold package! (Present repository includes notebooks that were used in the data analysis for the paper, and 
+which are not needed to run TFold.)
+
 #AlphaFold-based pipeline for prediction of peptide-MHC structures.
 Please cite as:<br>
 Victor Mikhaylov and Arnold J. Levine, "Accurate modeling of peptide-MHC structures with AlphaFold", to appear.<br>
